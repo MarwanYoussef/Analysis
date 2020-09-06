@@ -7,7 +7,7 @@
 This library feature very useful features and algorithms that are complex to implement from scratch.
 
 The Graph Library included many complex algorithms such shortest path, BFS, DFS and Floyd Warshall
-algorithms and much more about graph theory!
+algorithms and much more algorithms about graph theory!
 
 -------------------------------------------------------------------------------------------------          
           
